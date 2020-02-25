@@ -9,7 +9,7 @@
 <br><strong> Code examples (LATEST)</strong>
 <br>.........................
 <br><strong> Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses, freelance projects - wherever they had the opportunity to demonstrate skills they have. Also it would be awesome if you add links to source code)</strong>
-<br>....................
+<br>1 year of Java and Android self-study
 <br><strong> Education (including courses, seminars, lectures, online learning)</strong>
 <br>BSUIR - Computer Systems and Networks - Computing Machines, Systems and Networks.(1st year)
 <br><strong> English (elaborate on what kind of practice you had, if any, how long it lasted and so on)</strong>
