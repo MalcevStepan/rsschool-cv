@@ -3,7 +3,7 @@
 <br><strong>Contact Info (add several ways to contact you)</strong>
 <br>`+375296797842`
 <br><strong> Summary (your goal, wishes, reveal what is important for you, what do you want and why. Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always learning new things from everywhere etc.). </strong>
-<br>...........................
+<br>I want to be an Android Developer and now I want to work while studying at the University.
 <br><strong> Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)</strong>
 <br>Some experience in C and C++ from university. Much more experience in Java from self-study.
 <br><strong> Code examples (LATEST)</strong>
