@@ -1,2 +1,1 @@
-https://github.com/malcevstepan.github.io/rsschool-cv/cv
-
+https://malcevstepan.github.io/rsschool-cv/cv
