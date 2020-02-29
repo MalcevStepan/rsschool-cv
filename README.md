@@ -1,2 +1,2 @@
-<href>malcevstepan.github.io/rsschool-cv/cv</href>
+https://github.com/malcevstepan.github.io/rsschool-cv/cv
 
